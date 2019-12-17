@@ -4,6 +4,8 @@ SOA - Sistemas Operativos Avanzados - FIB - Grado en Ingeniería Informática
 Aqui está todo el trabajo realizado en la asignatura de Sistemas Operativos Avanzados realizada en la FIB - UPC.
 Trabajo realizado junto con mi compañero Nil Quera.
 
+Objetivos: Programar un sistema operativo simple (ZeOS) y sockets.
+
 Recomendación para la asignatura:
 Asistir a todas las clases de teoría y lab, muy recomendable. Es una asignatura con temario complicado pero si le dedicas horas llega incluso a ser divertida.
 
